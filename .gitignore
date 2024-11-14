@@ -1,7 +1,7 @@
-D:\\PROJECTS\\Voice Activated virtual assistant\\envVAVE
-D:\\PROJECTS\\Voice Activated virtual assistant\\contacts.csv
-D:\\PROJECTS\\Voice Activated virtual assistant\\vave.db
-D:\\PROJECTS\\Voice Activated virtual assistant\\engine\\__pycache__
+/envVAVE
+contacts.csv
+vave.db
+/engine/__pycache__
 /engine/cookies.json
-D:\\PROJECTS\\Voice Activated virtual assistant\\Docs\\mini project synopsis.pdf
-D:\\PROJECTS\\Voice Activated virtual assistant\\Docs\PPT.pptx
+/Docs/mini project synopsis.pdf
+/Docs/PPT.pptx
